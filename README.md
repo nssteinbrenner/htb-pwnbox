@@ -4,10 +4,15 @@ Base files to get the look/feel of HTB's pwnbox
 
 ## Install
 Copy the contents of `applications` to `/usr/share/applications`
+
 Copy the contents of `backgrounds` to `/usr/share/backgrounds`
+
 Copy the contents of `icons` to `/usr/share/icons`
+
 Copy the contents of `themes` to `/usr/share/themes`
+
 Copy the contents of `opt` to `/opt`
+
 Copy the contents of `skel` to `/etc/skel` (if you want to apply this to your user, copy it to your user's home directory)
 
 Load the dconf configuration file `htb-user-desktop.conf` with `dconf load / < htb-user-desktop.conf` as your desired user.
