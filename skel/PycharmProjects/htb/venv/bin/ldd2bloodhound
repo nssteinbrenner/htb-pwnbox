@@ -1,0 +1,3 @@
+#!/home/test/PycharmProjects/htb/venv/bin/python
+from ldapdomaindump import convert
+convert.ldd2bloodhound()

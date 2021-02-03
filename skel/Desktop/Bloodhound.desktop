@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/lib/bloodhound/resources/app/src/img/icon.ico
+Icon[en_US]=/usr/lib/bloodhound/resources/app/src/img/icon.ico
+Name[en_US]=Bloodhound
+Exec=/opt/bloodhound/startBH.sh
+Name=Bloodhound
