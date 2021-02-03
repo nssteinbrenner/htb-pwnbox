@@ -1,0 +1,2 @@
+opt/microsoft/vscode.deb filter=lfs diff=lfs merge=lfs -text
+skel/.PyCharmCE2019.3/system/index/.persistent/prebuilt/Python/id-index.input.values filter=lfs diff=lfs merge=lfs -text
